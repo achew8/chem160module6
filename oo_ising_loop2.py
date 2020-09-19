@@ -15,6 +15,3 @@ while Temp<4.:
         ising1.addprops()
     ising1.calcprops()
     Temp+=.2
-
-
-        
