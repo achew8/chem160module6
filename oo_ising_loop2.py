@@ -3,7 +3,6 @@ Temp=2.3        # Temperature
 n=20            # Sites per edge for n x n system
 ntrials=500000  # Number Trials
 nequil=100000   # Equilibration steps
-
 ising1=ising(Temp, n)
 ising1.randomize()
 while Temp<4.:
